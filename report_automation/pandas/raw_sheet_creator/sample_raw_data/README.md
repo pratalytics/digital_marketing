@@ -1,2 +1,2 @@
 # Sample Raw Data
-These are sample datasets to understand what should be the schema of the dataset
+These are snapshots for you to understand what should be the schema of the dataset
